@@ -2,9 +2,9 @@
 
 To run the code on different environment use below command:-
 
-npm run dev
-npm run prod
-npm run staging
+"npm run dev"
+"npm run prod"
+"npm run staging"
 
 
 
